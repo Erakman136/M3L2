@@ -1,0 +1,3 @@
+bu kodlar Akıllı evler için enerji verimlilik hesaplayıcısı için yazılmış
+ilk başta bize evde kaç cihaz olduğunu soruyor
+ondan sonra sonra 
